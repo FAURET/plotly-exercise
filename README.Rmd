@@ -1,0 +1,11 @@
+---
+title: "README"
+author: "ThierryFauret"
+date: "4 juin 2017"
+output: html_document
+---
+
+
+In this depository, you will find a plot performed with the plotly library.
+
+This is week 3 assignment for Developping Product Course (Coursera).
